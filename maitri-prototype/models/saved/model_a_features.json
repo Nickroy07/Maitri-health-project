@@ -1,0 +1,15 @@
+[
+  "age",
+  "parity",
+  "gravida",
+  "height_cm",
+  "weight_kg",
+  "bmi",
+  "haemoglobin_g_dl",
+  "systolic_bp",
+  "diastolic_bp",
+  "obstetric_history_flag",
+  "travel_time_to_frtu_minutes",
+  "gestational_age_weeks_at_registration",
+  "danger_sign_reported"
+]
